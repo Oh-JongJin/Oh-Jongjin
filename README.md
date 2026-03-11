@@ -11,9 +11,9 @@
   
 <!-- ### My Skills 💡 -->
 
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=black"/>
+<img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=black"/>
 
 <!--<img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=anaconda&logoColor=white"/> -->
 
